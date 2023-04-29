@@ -52,4 +52,13 @@
 * ower Platform Fundamentals](https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals/)
 * ower Platform Fundamentals](https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals/)
 
+
+## Video Links Below
+
+* [Class 1](https://drive.google.com/file/d/111bRRRaig9NjuonBnOIglPo8XsEqffcj/view?usp=share_link)
+* [Class 2](https://drive.google.com/file/d/1TfPwqix-Vtu2onFqMLuKt_Zf_ji7HPT2/view?usp=share_link)
+* [Class 3](https://drive.google.com/file/d/1rquUQ04s2FJoAJPZh_qImJiMmdw0qO24/view?usp=share_link)
+* [Class 4](https://drive.google.com/file/d/1LPKYsEm_0BTx8c9oyIwQksEwxHUg3oYI/view?usp=share_link)
+* [Class 5](https://drive.google.com/file/d/1XUs6F5PUKxM0kvncvgl7UnHdM4tEz9_c/view?usp=share_link)
+
 [Return to Table of Contents](README.md)
