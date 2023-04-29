@@ -49,8 +49,7 @@
 * [Fundamentals of Microsoft Dynamics 365 Sales](https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-of-microsoft-dynamics-365-sales/)
 * [Fundamentals of Microsoft Dynamics 365 Customer Service](https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/)
 * [Fundamentals of Microsoft Dynamics 365 Field Service](https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-of-microsoft-dynamics-365-field-service/)
-* ower Platform Fundamentals](https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals/)
-* ower Platform Fundamentals](https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals/)
+
 
 
 ## Video Links Below
