@@ -61,4 +61,37 @@
 * [Class 4](https://drive.google.com/file/d/1LPKYsEm_0BTx8c9oyIwQksEwxHUg3oYI/view?usp=share_link)
 * [Class 5](https://drive.google.com/file/d/1XUs6F5PUKxM0kvncvgl7UnHdM4tEz9_c/view?usp=share_link)
 
+
+### Basic Azure Tips
+
+* [Install Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
+* [Install Az Powershell Module](https://learn.microsoft.com/en-us/powershell/azure/install-azure-powershell?view=azps-9.7.0)
+
+#### Create a single Resource Group with Azure cli
+```
+az group create --name <name to give your Resource Group> --location <location>
+```
+
+#### Create Multiple Resource Groups with cli
+
+```
+# powershell create multiple resource groups and increment the name using a for loop
+
+# login to azure
+
+az login
+
+# create a variable to hold the resource group name
+
+$rgname = "ASG-RGS"
+
+# create for loop to create multiple resource groups
+
+for ($i=1; $i -le 5; $i++) {
+    az group create --name $rgname$i --location eastus
+}
+```
+
+
+
 [Return to Table of Contents](README.md)
