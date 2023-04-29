@@ -32,8 +32,24 @@
 * Describe [Hybrid cloud](https://azure.microsoft.com/en-ca/overview/what-is-hybrid-cloud-computing/)
 * Compare and contrast the [3 types of cloud computing](https://azure.microsoft.com/en-us/overview/what-are-private-public-hybrid-clouds/)
 
-## Hands-on study material at Microsoft Learn
+## Hands-on study material at Microsoft Learn (Azure)
 
 * [Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts)
+
+## Hands-on study material at Microsoft Learn (Power Platform)
+
+* [Microsoft Power Platform Fundamentals](https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals/)
+
+## Hands-on study material at Microsoft Learn (Dynamics 365)
+
+[LEARNING PATH](https://learn.microsoft.com/en-us/certifications/d365-fundamentals-customer-engagement-apps-crm/?tab=tab-learning-paths#certification-exams)
+
+* [Microsoft Dynamics 365 customer engagement apps](https://learn.microsoft.com/en-us/training/paths/examine-core-capabilities-of-microsoft-dynamics-365-customer-engagement-apps/)
+* [Fundamentals of Dynamics 365 Marketing](https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-of-microsoft-dynamics-365-marketing/)
+* [Fundamentals of Microsoft Dynamics 365 Sales](https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-of-microsoft-dynamics-365-sales/)
+* [Fundamentals of Microsoft Dynamics 365 Customer Service](https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-microsoft-dynamics-365-customer-service/)
+* [Fundamentals of Microsoft Dynamics 365 Field Service](https://learn.microsoft.com/en-us/training/paths/learn-fundamentals-of-microsoft-dynamics-365-field-service/)
+* ower Platform Fundamentals](https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals/)
+* ower Platform Fundamentals](https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals/)
 
 [Return to Table of Contents](README.md)
