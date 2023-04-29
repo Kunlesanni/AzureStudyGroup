@@ -1,6 +1,6 @@
-# AZ-900: Describe Cloud Concepts (20-25%)
+# AZURE STUDY GROUP SESSION GUIDE
 
-## Identify the benefits and considerations of using cloud services
+## Cloud Computing Services and Benefits
 
 * Identify the benefits of cloud computing, such as:
     * [High Availability](https://docs.microsoft.com/en-us/azure/architecture/checklist/availability)
